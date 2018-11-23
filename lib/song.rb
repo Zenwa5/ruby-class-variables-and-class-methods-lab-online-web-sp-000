@@ -12,8 +12,8 @@ class Song
    @@artists << :artist
 
    @name = name
-    @artist = artist
-    @genre = genre
+   @artist = artist
+   @genre = genre
   end
 
   def name
